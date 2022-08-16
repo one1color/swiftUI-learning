@@ -35,7 +35,7 @@ struct ContentView: View {
                         .foregroundStyle(Color.icon, .primary)
                 }
             }
-    }
+        }
         .navigationViewStyle(.stack)
     }
 }
